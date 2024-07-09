@@ -1,17 +1,3 @@
-## ✨About Me:
-
-**🏢 I'm currently  working on:**<br>
-A compiler for a custom language
-
-**👯‍♂️ I'm looking to collaborate on:**<br>
-Web dev / C++ projects
-
-**🏫 I'm currently learning:**<br>
-Compiler design , Web dev
-
-**📝 Ask me about:**<br>
-C++ , Java , React  and any general software development questions.
-
 ## 💻 Tech stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
