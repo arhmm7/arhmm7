@@ -16,10 +16,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arhmm7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🌏 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rhm_906)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arham-khan-426545264/)
-<br>
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/rumywr)
+
 
 ![Arham's GitHub stats](https://github-readme-stats.vercel.app/api?username=arhmm7&show_icons=true&theme=dark)
 
